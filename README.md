@@ -49,7 +49,7 @@ python main.py
 
 The application window will open, and you can begin answering questions. Click the "True" or "False" buttons to submit your answers.
 
-<img src="https://github.com/amansinghgill/Trivia-App/assets/90486946/1aa2b682-22ca-47a0-9cf6-6693d27b0ea7" alt="UI" width="100px" style="margin: 0 auto; display: block;">
+<img src="https://github.com/amansinghgill/Trivia-App/assets/90486946/1aa2b682-22ca-47a0-9cf6-6693d27b0ea7" alt="UI" width="150px" style="margin: 0 auto; display: block;">
 
 ## Customization
 
